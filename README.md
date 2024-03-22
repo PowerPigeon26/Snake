@@ -1,0 +1,1 @@
+Hi! In this project, I created the game snake in C#. I followed a tutorial on Youtube, called "Programming a Snake Game in C# - Full Guide". The project is completed and works as intended by the tutorial. If I work on this again, I would like to add sound effects and make the UI more user friendly.
